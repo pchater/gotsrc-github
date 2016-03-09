@@ -3,3 +3,15 @@ html {
 	padding: 0;
 	font: normal 100%/1.4 Consolas, "Source Code Pro", monospace;
 }
+
+.current { 
+	background-color: #bada55;
+	color: #242424;
+	padding: 5px 15px;
+	text-decoration: none;
+}
+
+.current:hover {
+	background-color: #242424;
+	color: #bada55;
+}
