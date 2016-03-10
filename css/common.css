@@ -7,7 +7,6 @@ html {
 .current { 
 	background-color: #bada55;
 	color: #242424;
-	padding: 5px 15px;
 	text-decoration: none;
 }
 
@@ -24,7 +23,15 @@ html {
 
 .nav > li {
 	display: inline-block;
+	padding: 5px;
 }
 
-.nav-head { color: #bada55; }
-.nav-foot { color: #666666; }
+.nav > li > a {
+	padding: 5px; 
+}	
+.nav > li a:hover {
+	background-color: #242424; color: #bada55; 
+}
+
+.nav-head { color: #bada55; font-size: 1.2rem; }
+.nav-foot { color: #666666; font-size: 0.8rem; }
