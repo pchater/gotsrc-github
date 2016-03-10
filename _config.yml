@@ -1,3 +1,4 @@
 markdown: redcarpet
 baseurl: /gotsrc-github
 exclude: ['README.md']
+permalink: pretty
