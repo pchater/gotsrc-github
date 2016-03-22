@@ -7,13 +7,19 @@
 </head>
 <body>
 
-<header>
-	<h1>{gS}</h1>
-	{% include nav.html navclass='nav-head' %}
+<header id="top">
+	<header class="top-bar">
+		<div class="pull-left"><h1>{<span class="gs-green">gS</span>}</h1></div>
+		<div class="pull-right">{% include nav.html navclass='nav-head' %}</div>
+	</header>
+	<div class="clearfix"></div>
 </header>
 
-{{content}}
-
+<section id="content">
+	<div class="main-content">
+		{{content}}
+	</div>	
+</section>
 <footer>
 	{% include nav.html navclass='nav-foot' %}
 	<p>&copy; 2016 {gS}, All Rights Reserved unless stated otherwise.</p>

@@ -3,3 +3,7 @@ html {
 	padding: 0;
 	font: normal 100%/1.4 Consolas, "Source Code Pro", monospace;
 }
+.clearfix { clear: both; }
+
+.gs-green { color: #bada55; }
+.gs-grey { color: #212121; }

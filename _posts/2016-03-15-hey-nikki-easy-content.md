@@ -12,8 +12,10 @@ Hey mate, This is just a Heading.
 
 **this** is bold _italics_ 
 
-I can do pretty much `anything` that I want with this 
+I can do pretty much `anything` that I want with this
 
 
+
+[paulchater rocks][http://www.paulchater.co.uk]
 
 
