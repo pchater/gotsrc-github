@@ -3,6 +3,10 @@ html {
 	padding: 0;
 	font: normal 100%/1.4 Consolas, "Source Code Pro", monospace;
 }
+
+/* Pull Left or Right and Clearfix */
+.pull-left { float: left; }
+.pull-right { float: right; }
 .clearfix { clear: both; }
 
 .gs-green { color: #bada55; }
