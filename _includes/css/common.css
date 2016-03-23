@@ -3,7 +3,14 @@ html {
 	padding: 0;
 	font: normal 100%/1.4 Consolas, "Source Code Pro", monospace;
 }
+body {
+	margin: 0;
+	padding: 0;
+}
 
+.main-content { 
+	padding: 15px 30px;
+}
 /* Pull Left or Right and Clearfix */
 .pull-left { float: left; }
 .pull-right { float: right; }

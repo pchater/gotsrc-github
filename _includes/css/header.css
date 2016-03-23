@@ -1,2 +1,2 @@
-#top { margin: 0 auto; }
-.top-bar h1 { margin: 0; padding: 0; font-size: 1.6rem; color: #212121; }
+#top { margin: 0 auto; padding: 5px; background-color: #212121; color: #efefef; }
+.top-bar h1 { margin: 0px 5px 5px 0px;  font-size: 16pt; color: #343434; }
