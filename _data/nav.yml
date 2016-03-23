@@ -1,12 +1,12 @@
-- title: Home
+- title: /
   permalink: /
 
-- title: About
+- title: /about
   permalink: /about/
 
-- title: News
+- title: /news
   permalink: /news/
 
-- title: Contact
+- title: /contact
   permalink: /contact/
 

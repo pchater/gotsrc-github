@@ -3,6 +3,7 @@ nav { color: #f1f1f1; }
 	background-color: #bada55;
 	color: #242424;
 	text-decoration: none;
+	border-radius: 5px; 
 }
 
 .current:hover {
@@ -25,7 +26,8 @@ nav { color: #f1f1f1; }
 	padding: 5px;
 }	
 .nav > li a:hover {
-	background-color: #343434; color: #bada55; 
+	background-color: #343434; color: #bada55;
+	border-radius: 5px;
 }
 
 .nav-head { color: #bada55; font-size: 1.0rem; }
