@@ -1,3 +1,4 @@
+nav { color: #f1f1f1; }
 .current { 
 	background-color: #bada55;
 	color: #242424;
@@ -22,11 +23,13 @@
 
 .nav > li > a {
 	padding: 5px;
-	color: #343434;
 }	
 .nav > li a:hover {
 	background-color: #343434; color: #bada55; 
 }
 
-.nav-head { color: #bada55; font-size: 1.2rem; }
+.nav-head { color: #bada55; font-size: 1.0rem; }
+.nav-head > li > a { color: #666; text-decoration: none; }
+.nav-head .current { color: #212121; }
+.nav-foot > li > a { color: #212121; }
 .nav-foot { color: #666666; font-size: 0.8rem; }
