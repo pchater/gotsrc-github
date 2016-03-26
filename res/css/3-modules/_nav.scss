@@ -33,5 +33,6 @@ nav { color: #f1f1f1; }
 .nav-head { color: #bada55; font-size: 1.0rem; }
 .nav-head > li > a { color: #666; text-decoration: none; }
 .nav-head .current { color: #212121; }
-.nav-foot > li > a { color: #212121; }
+.nav-foot > li > a { color: #666; }
+.nav-foot .current { color: #212121; }
 .nav-foot { color: #666666; font-size: 0.8rem; }
